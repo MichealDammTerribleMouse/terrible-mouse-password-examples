@@ -12,8 +12,8 @@ Rules:
 - Create your own unique passwords
 ⚠️ These are not my real passwords and should not be used for real accounts.
 They are only Terrible Mouse fan-style examples created for fun and creativity. 🐭
-Rules2:
 
+Rules2:
 1. Do not share your real password.
 2. Hide your email address and other private information.
 3. Use your own unique passwords for your accounts.
